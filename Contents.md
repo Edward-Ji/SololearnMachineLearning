@@ -1,20 +1,20 @@
 # Contents
 Sololearn Data Science course
 
-The Basics
+[The Basics](Basic.ipynb)
 ---
 - basic concepts of ML
 - basics of numpy
 - basics of pandas
 - basics of matplotlib
 
-Classification Problems
+[Classification Problems](Classification.ipynb)
 ---
 Logistic Regression Classification with
 - Titanic Survival dataset
 - Breast Cancer dataset
 
-Model Evaluation
+[Model Evaluation](ModelEvaluation.ipynb)
 ---
 Evaluating the Logistic Regression Model with
 - Evaluation matrices
@@ -22,7 +22,7 @@ Evaluating the Logistic Regression Model with
 - K-fold cross evaluation
 - Model Comparison
 
-Decision Tree
+[Decision Tree](DecisionTree.ipynb)
 ---
 Interpreting Titanic Survival Dataset by
 - Understanding information gain
@@ -30,5 +30,5 @@ Interpreting Titanic Survival Dataset by
 - Learning pruning techniques
 - Learning grid search cross validation
 
-Random Forest
+[Random Forest](RandomForest.ipynb)
 ---
