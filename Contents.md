@@ -41,3 +41,11 @@ Random Forest Classification optimization with
 - Grid search
 - Elbow graph
 - Feature importance
+
+[Neural Network](NeuralNetwork.ipynb)
+---
+
+Multi-Layer Perceptron Classification with
+- Artificial dataset
+- MNIST handwritten digit dataset
+- Visualization
