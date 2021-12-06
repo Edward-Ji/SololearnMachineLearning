@@ -1,4 +1,4 @@
 # SololearnMachineLearning
-Recreating Sololearn Data Science course in Jupyter Notebook
+Recreating Sololearn Machine Learning course in Jupyter Notebook.
 
-[Contents](Contents.md)
+[Click for Contents](Contents.md)
