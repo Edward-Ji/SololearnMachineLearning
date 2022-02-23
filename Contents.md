@@ -1,7 +1,7 @@
 # Contents
 Sololearn Data Science course
 
-[The Basics](Basic.ipynb)
+[The Basics](Basics.ipynb)
 ---
 
 - basic concepts of ML
